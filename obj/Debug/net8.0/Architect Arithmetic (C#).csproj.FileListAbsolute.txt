@@ -1,0 +1,14 @@
+D:\Projects\Architect Arithmetic (C#)\bin\Debug\net8.0\Architect Arithmetic (C#).exe
+D:\Projects\Architect Arithmetic (C#)\bin\Debug\net8.0\Architect Arithmetic (C#).deps.json
+D:\Projects\Architect Arithmetic (C#)\bin\Debug\net8.0\Architect Arithmetic (C#).runtimeconfig.json
+D:\Projects\Architect Arithmetic (C#)\bin\Debug\net8.0\Architect Arithmetic (C#).dll
+D:\Projects\Architect Arithmetic (C#)\bin\Debug\net8.0\Architect Arithmetic (C#).pdb
+D:\Projects\Architect Arithmetic (C#)\obj\Debug\net8.0\Architect Arithmetic (C#).GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Architect Arithmetic (C#)\obj\Debug\net8.0\Architect Arithmetic (C#).AssemblyInfoInputs.cache
+D:\Projects\Architect Arithmetic (C#)\obj\Debug\net8.0\Architect Arithmetic (C#).AssemblyInfo.cs
+D:\Projects\Architect Arithmetic (C#)\obj\Debug\net8.0\Architect Arithmetic (C#).csproj.CoreCompileInputs.cache
+D:\Projects\Architect Arithmetic (C#)\obj\Debug\net8.0\Architect Arithmetic (C#).dll
+D:\Projects\Architect Arithmetic (C#)\obj\Debug\net8.0\refint\Architect Arithmetic (C#).dll
+D:\Projects\Architect Arithmetic (C#)\obj\Debug\net8.0\Architect Arithmetic (C#).pdb
+D:\Projects\Architect Arithmetic (C#)\obj\Debug\net8.0\Architect Arithmetic (C#).genruntimeconfig.cache
+D:\Projects\Architect Arithmetic (C#)\obj\Debug\net8.0\ref\Architect Arithmetic (C#).dll
